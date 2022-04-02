@@ -1,0 +1,7 @@
+1. una variable es como una caja donde podemos meter datos, pueden ser numéricos, alfabéticos o alfanuméricos.
+2. un string es siempre va ser escrito en forma de texto y en js para que signifique texto debe ir entre comillas.
+3. una función es un bloque de código que realiza una operación, esto nos sirve para acortar procesos.
+4. el argumento es son un conjunto de expresiones para darle un objetivo o resultado a una función.
+5. return es la sentencia que finaliza el proceso de la función y me devuelve un valor cuando se llama a la función.
+6. una declaración es el valor o asociación que se le da a una variable.
+7. un valor booleano es un dato que solo puede tener dos valores por ejemplo true and false.
