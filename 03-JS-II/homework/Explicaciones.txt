@@ -1,0 +1,5 @@
+1. For es una función de js para realizar una operación de forma repetitiva hasta el límite que nosotros le pongamos.
+2. && es una condición que significa "Y" se usa para realizar una comparación entre dos o mas condiciones, todas lascondiciones
+   deben cumplirse.
+3. || significa "o" se usa como condición para comprar, se debe cumplir alguna de las condiciones.
+4. ! esta función niega la condición, osea cambia su resultado de true a false o viceversa.
