@@ -1,0 +1,2 @@
+Array : Es un contenedor donde podemos almacenar la cantidad de elementos que querramos, como número, booleano, string y demás
+	  para poder usarlos en el momento que lo deseemos.
