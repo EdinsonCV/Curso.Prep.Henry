@@ -1,0 +1,8 @@
+1. Objetos son variables que contienen dentro de ella una serie de 'variables' internas definidas con un valor.
+2. Propiedades es el nombre que se le da a las 'variables' internas de un objeto.
+3. Métodos es el nombre que se le da a las funciones que componen o hacen parte de un objeto.
+4. Bucle for...in es un bucle de javascript que se usa para poder iterar dentro de las propiedades del objeto y dentro de los valores
+   de cada objeto.
+5. Notación de puntos y notación de corchetes llaman al valor de las propiedades del objeto, pero la notación de puntos es específica
+   para el valor que tiene la propiedad dentro del objeto, mientras que la notación de corchetes me permite traer valores que incluso
+   se han modificado.
