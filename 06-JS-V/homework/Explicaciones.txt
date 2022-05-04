@@ -1,0 +1,5 @@
+1. Prototype es la forma en que los objetos en javascript heredan características el uno del otro, osea que cada característica
+   no va depender de un solo objeto si no también de los objetos que le anteceden, de tal forma que javascript puede buscar en cada
+   objeto la característica hasta encontrarla.
+2. El constructor me sirve para crear un objeto que use los datos ingresados al constructor y sean usados por el, sin la necesidad
+   de modificar cada objeto por separado.
