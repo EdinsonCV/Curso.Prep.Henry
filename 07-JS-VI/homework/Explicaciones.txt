@@ -1,0 +1,2 @@
+1. Las funciones CallBack o cb, se usan para traer una función que sirva de uso para otras funciones, retornarlas como resultados
+   y también guardarles en variables y otras estructuras.
