@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(248, 253, 253);
+    font-family: tahoma;
+    text-align: justify;
+}
+#titulos {
+    font-size: 25px;
+    font-weight: bold;
+}
+#areas {
+    font-size: 20px;
+    font-weight: bold;
+}
+h1 {
+    text-decoration-line: underline;
+}
